@@ -1,0 +1,51 @@
+body{
+background-color:rgb(228,235,112) ;
+	color: green;
+	font-family: verdana, arial,Geneva;
+
+}
+h1 , h2 {
+	background-color: purple;
+	border-bottom:10px solid black;
+	
+}
+h1{
+	color:pink;
+}
+h2{
+	color:pink;
+}
+p {
+	color: blue;
+	font-size: 20px;
+	
+}
+.blue{
+	color:blue;
+	Background-color:rgb(228,248,163);
+	padding:20px;
+	Border-color: black;
+	Border-Width: 10px;
+	Border-style: solid;
+	font-size: 20px;
+
+}
+.ita{
+	font-style:italic;
+}
+table{
+	padding:20px;
+	Border-color: black;
+	Border-Width: 10px;
+	Border-style: solid;
+	font-size: 20px;
+}
+img{
+	Border-color: black;
+	Border-Width: 10px;
+	Border-style: solid;
+	font-size: 20px;
+	display: block;
+	Margin-left:auto;
+	Margin-right:auto;
+}
